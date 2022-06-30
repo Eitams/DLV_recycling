@@ -5,6 +5,8 @@ Dataset: Taco [http://tacodataset.org/]
 Mask RCNN: https://github.com/matterport/Mask_RCNN
 
 Results:  
+![image](https://user-images.githubusercontent.com/62335786/176636155-38e6efe3-13b0-46cf-b9aa-bf8cc2fa4750.png)
+
 **Model 5**  
 ![image](https://user-images.githubusercontent.com/62335786/176446884-657d1fdb-2c81-4a74-a434-0583a84dbeec.png)  
 ![image](https://user-images.githubusercontent.com/62335786/176446951-0a978e59-21c1-42ac-bb4d-d86140bbf406.png)  
